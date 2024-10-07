@@ -1,3 +1,4 @@
 streamLit
 langchain
 langchain-openai
+tiktoken
